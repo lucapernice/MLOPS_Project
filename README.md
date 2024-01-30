@@ -10,3 +10,8 @@
 6. Update pipeline
 7. Update `main.py`
 8. Update `app.py`
+
+### Note per il futuro
+- Tutorial --> [video](https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=10370s&ab_channel=KrishNaik)
+- Trova il modo di trainare il modello (magari su Colab), a meno che su CPU non riesca a trainare bene comunque
+- Buon lavoro
